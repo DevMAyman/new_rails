@@ -1,0 +1,9 @@
+* Take a new branch from "new_rails" named "lab_three_mvc", and do the following:
+	1. create the app (Author 1:M Post) using scaffold.
+	2. create a "creator" association in the author, that links with the "post" as well (creator 1:M post)
+	3. craete a new association (post M:M emoji) -only care about the associations without the logic"
+	* you can read this article for help, https://www.theodinproject.com/lessons/ruby-on-rails-active-record-associations , but keep in mind that it have advanced consepts so take only what you need.
+
+* Take a new branch from "new_rails" named "lab_three_api", and do the following: 
+	1. create the app (Author 1:M Post) using scaffold.
+	2. use postman to do the CRUD operations, create new file in the app named "json_collection", then create a PR
